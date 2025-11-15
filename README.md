@@ -54,7 +54,5 @@ Includes reusable UI components, semantic and accessible HTML, and optimized Nex
 - 🎚 Utility-based animations & transitions
 - 🔧 Clean and scalable folder structure
 
----
 
-## 📁 Project Structure (Preview)
 
